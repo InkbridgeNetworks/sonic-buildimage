@@ -180,7 +180,7 @@ INCLUDE_SYSTEM_TELEMETRY = n
 INCLUDE_SYSTEM_OTEL = y
 
 # INCLUDE_ICCPD - build docker-iccpd for mclag support
-INCLUDE_ICCPD ?= n
+INCLUDE_ICCPD = y
 
 # INCLUDE_SNMP - build docker-snmp for SNMP support
 INCLUDE_SNMP ?= y
