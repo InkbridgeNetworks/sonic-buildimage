@@ -182,6 +182,9 @@ INCLUDE_SYSTEM_OTEL = y
 # INCLUDE_ICCPD - build docker-iccpd for mclag support
 INCLUDE_ICCPD = y
 
+# INCLUDE_STP - build docker-stp for spanning tree (PVST and MST) support
+INCLUDE_STP = y
+
 # INCLUDE_SNMP - build docker-snmp for SNMP support
 INCLUDE_SNMP ?= y
 
