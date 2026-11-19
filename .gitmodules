@@ -122,7 +122,7 @@
 	url = https://github.com/sonic-net/sonic-dash-ha
 [submodule "src/sonic-stp"]
 	path = src/sonic-stp
-	url = https://github.com/sonic-net/sonic-stp
+	url = https://github.com/InkbridgeNetworks/sonic-stp
 [submodule "platform/marvell-teralynx/sonic-platform-marvell-teralynx"]
 	path = platform/marvell-teralynx/sonic-platform-marvell-teralynx
 	url = https://github.com/Marvell-switching/sonic-platform-marvell.git
